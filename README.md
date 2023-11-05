@@ -48,7 +48,7 @@ Click on it, provide a descriptive title and details about your changes, and cre
 After creating the pull request, go to this form and submit the link to your pull request. 
 This is how we'll keep track of your contributions.
 
-That's it! You've successfully contributed to the Jadoo Travels project. 
+That's it! You've successfully contributed to the Jadoo Travels project!!.
 Thank you for your work, and happy collaborating!
 
 If you have any questions or need further assistance, feel free to reach out to the project maintainers [@emmsdan](https://twitter.com/emmsdan).
